@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "My book description."
+description = "The open source event dedicated to advancing standards and technologies in data and storage."
 
 ############################
 ## Site Features
@@ -88,7 +88,7 @@ show_related = {book = true}
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "sodafoundation"
 
 ############################
 ## Regional Settings
